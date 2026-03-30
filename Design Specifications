@@ -1,0 +1,43 @@
+			
+
+
+
+
+
+
+Design Specifications
+Project:	Autonomous Remote Controlled Boat
+Date:	 	3/30/2026
+Version: 1.0
+Authors: 	Connor Snell, Wyatt Snell
+
+
+
+
+
+
+
+
+
+
+
+
+
+Objectives:
+•	The goal will be to get the boat to go in a straight line using gps of the area.
+•	The boat will have obstacle avoidance.
+•	Have a safeguard by Bluetooth to deactivate and reactivate as needed.
+•	Make a personal app that allows user interface to change coordinates for boats destination.
+
+Successes:
+A success is counted if it achieves these specifications
+•	The boat can carry up to 5 lbs.
+•	The boat successfully reaches the designated area.
+•	The boat successfully activates and deactivates on demand.
+•	App interacts with the boat on user demand.
+Constraints:
+•	Budget is set at $500
+•	Maximum weight set at 5lbs 
+•	Power is with battery and servo motors.
+•	Battery must last 30 minutes.
+
